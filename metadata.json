@@ -1,0 +1,8 @@
+{
+  "name": "Sudan Tok (سودان توك)",
+  "description": "A vibrant short-video platform inspired by TikTok, focused on Sudanese culture and creativity, powered by Gemini for smart captions and video insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
